@@ -4,8 +4,6 @@
 
 A static clone of YouTube’s homepage created using **HTML** and **CSS**. This beginner-friendly project helps new developers understand layout structuring, flexbox usage, and clean UI replication.
 
-> ⚠️ **Note:** This project does not include JavaScript functionality and is not fully responsive.
-
 ## 🚀 Live Demo
 
 👉 [Live App](https://youtube-clone-html-css-rho.vercel.app/)
